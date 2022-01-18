@@ -135,7 +135,9 @@ a {
 .about-section {
   padding-top: 100px;
   padding-bottom: 0px;
-  margin-top: 20px;}
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #dddddd;}
 
 .projects-section {
   color: black;
