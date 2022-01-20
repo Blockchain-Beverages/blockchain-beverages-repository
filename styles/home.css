@@ -15,13 +15,13 @@ h2,
 h4,
 h5,
 h6 {
-  font-family: 'Teko', sans-serif;
+  font-family: 'Geo', sans-serif;
   font-weight: 700;
   font-size: 44px;
   margin: 0 0 0px;
   letter-spacing: 5px;
   text-transform: uppercase;
-  color: #ea3b3b; }
+  color: #c49a6c; }
   h3 {
     font-family: 'Teko', sans-serif;
     font-weight: 500;
@@ -45,10 +45,16 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: black; }
+  color: black;
+  font-family: 'Teko', sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  margin: 0 0 0px;
+  letter-spacing: 5px;
+  text-transform: uppercase; }
   a:focus, a:hover {
     text-decoration: none;
-    color: #ea3b3b; }
+    color: #c49a6c; }
 
 #mainNav {
   font-family: 'Teko', sans-serif;
@@ -58,7 +64,7 @@ a {
   #mainNav .navbar-toggler {
     font-size: 25px;
     padding: 11px;
-    color: #ea3b3b;
+    color: #c49a6c;
     border: none; }
   #mainNav .navbar-brand {
     font-weight: 700; }
@@ -71,10 +77,10 @@ a {
     #mainNav .navbar-nav .nav-item:hover a:hover {
       color: white;
       outline: none;
-      background-color: #ea3b3b; }
+      background-color: #c49a6c; }
     #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
       color: white;
-      background-color: #ea3b3b; }
+      background-color: #c49a6c; }
   @media (min-width: 992px) {
     #mainNav {
       padding-top: 10px;
@@ -113,7 +119,7 @@ a {
     vertical-align: middle; }
     .masthead .intro-body .brand-heading {
       font-size: 60px;
-      color: #ea3b3b; }
+      color: #c49a6c; }
     .masthead .intro-body .intro-text {
       font-size: 32px;
       color: black; }
@@ -129,7 +135,7 @@ a {
         color: black; } }
 
 .btn-circle:focus, .btn-circle:hover {
-    color: #ea3b3b;
+    color: #c49a6c;
     outline: transparent;}
 
 .about-section {
@@ -170,9 +176,9 @@ a {
   background-color: transparent; }
 .btn-default:focus, .btn-default:hover {
     color: black;
-    border: 1px solid #ea3b3b;
+    border: 1px solid #c49a6c;
     outline: none;
-    background-color: #ea3b3b; }
+    background-color: #c49a6c; }
 
 ul.about-me-buttons {
    margin-top: 0px; }
