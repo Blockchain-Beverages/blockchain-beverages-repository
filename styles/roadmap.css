@@ -72,7 +72,7 @@ body {
 .single-timeline-area .single-timeline-content {
     position: relative;
     z-index: 1;
-    padding: 30px 30px 25px;
+    padding: 30px 60px 25px;
     border-radius: 6px;
     margin-bottom: 15px;
     margin-top: 15px;
@@ -85,7 +85,7 @@ body {
         padding: 20px;
     }
 }
-.single-timeline-area .single-timeline-content .timeline-icon {
+/*.single-timeline-area .single-timeline-content .timeline-icon {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
     width: 30px;
@@ -103,7 +103,7 @@ body {
     color: white;
     background-color: #c49a6c;
     line-height: 30px;
-}
+}*/
 .single-timeline-area .single-timeline-content .timeline-text h6 {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
