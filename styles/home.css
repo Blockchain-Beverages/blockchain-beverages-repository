@@ -51,7 +51,8 @@ a {
   font-size: 32px;
   margin: 0 0 0px;
   letter-spacing: 5px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+text-decoration: none;}
   a:focus, a:hover {
     text-decoration: none;
     color: #c49a6c; }
@@ -140,7 +141,7 @@ a {
 
 .about-section {
   padding-top: 100px;
-  padding-bottom: 0px;
+  padding-bottom: 50px;
   margin-top: 20px;
   margin-bottom: 20px;
   background-color: #dddddd;}
@@ -208,10 +209,23 @@ ul.banner-social-buttons li:last-child {
 
 footer {
   padding: 50px 0;
-   background-color: #C9F0FF;}
+   background-color: #EAFFFD;}
+footer a {
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 0 0px;
+    line-height: 1.6;
+  }
 footer p {
-    font-size: 14px;
-    margin: 0; }
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0 0 0px;
+  line-height: 1.6;
+  }}
 
 ::-moz-selection {
   background: #fcfcfc;
