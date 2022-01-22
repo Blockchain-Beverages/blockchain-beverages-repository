@@ -64,7 +64,7 @@ body {
 }
 .single-timeline-area .timeline-date p {
     margin-bottom: 0;
-    color: #c49a6c;
+    color: black;
     font-size: 20px;
     text-transform: uppercase;
     font-weight: 500;
@@ -72,6 +72,7 @@ body {
 .single-timeline-area .single-timeline-content {
     position: relative;
     z-index: 1;
+    background-color: white;
     padding: 30px 60px 25px;
     border-radius: 6px;
     margin-bottom: 15px;
