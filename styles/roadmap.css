@@ -106,6 +106,7 @@ body {
     line-height: 30px;
 }*/
 .single-timeline-area .single-timeline-content .timeline-text h6 {
+    color: black;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
 }
